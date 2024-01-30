@@ -1,2 +1,2 @@
 # Consulta de Biblioteca
-<p>Manipulador de livros de uma livraria, feito em Python.</p>
+<p>CRUD - Manipulador de livros de uma livraria, feito em Python.</p>
